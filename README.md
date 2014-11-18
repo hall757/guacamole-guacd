@@ -19,7 +19,7 @@ Build from docker file:
 
 ```
 git clone git@github.com:hall757/guacamole-guacd.git
-docker build -t hall/guacamole-mysql . 
+docker build -t hall/guacamole-guacd . 
 ```
 
 ---
