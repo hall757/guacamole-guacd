@@ -19,6 +19,7 @@ Build from docker file:
 
 ```
 git clone git@github.com:hall757/guacamole-guacd.git
+cd guacamole-guacd
 docker build -t hall/guacamole-guacd . 
 ```
 
